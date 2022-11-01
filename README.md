@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryanpariyar
+- 👋 Hi, I’m @aryanpariyarofficial
 - 👀 I’m interested in wed-dev and design
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on website design
