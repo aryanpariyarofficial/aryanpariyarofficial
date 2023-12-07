@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanpariyarofficial
 - 👀 I’m interested in wed-dev and design
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on website design
 - 📫 How to reach me ...
  contect me on facebook/aryanpariyarofficial
